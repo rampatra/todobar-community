@@ -4,9 +4,9 @@ Users can now vote on or request [new features](https://github.com/rampatra/todo
 
 ## Links
 
-Website: https://todobar.compzets.com  
-Mac App Store: https://apps.apple.com/app/id1507246666  
+Website: https://todobarapp.com  
+Mac App Store: https://apps.apple.com/app/id6470928617    
 Setapp: https://go.setapp.com/stp285?refAppID=401&utm_content=button&utm_medium=vendor_program  
-YouTube Playlist: https://www.youtube.com/playlist?list=PLcxLhLDvsjnE2bpi-bN7E2-9EYaCSfk-U  
-FAQ: https://todobar.compzets.com/faq.html  
+YouTube Playlist: https://www.youtube.com/@Softal    
+FAQ: https://todobarapp.com/faq.html  
 Contribute to Localization: https://github.com/rampatra/todobar-localization
