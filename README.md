@@ -1,6 +1,6 @@
 # A community for ToDoBar users
 
-Users can now vote on or request [new features](https://github.com/rampatra/todobar-community/discussions/categories/ideas) and can see their [progress](https://github.com/users/rampatra/projects/2/views/1) as well. Thanks to GitHub.
+Users can now vote on or request [new features](https://github.com/rampatra/todobar-community/discussions/categories/ideas). Thanks to GitHub.
 
 ## Links
 
